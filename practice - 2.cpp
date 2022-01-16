@@ -6,7 +6,7 @@ struct Pair {
     int min;
 };
 
-struct Pair getMinMax(int arr[], int n)
+Pair getMinMax(int arr[], int n)
 {
     struct Pair minmax;
     
